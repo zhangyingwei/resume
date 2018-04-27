@@ -1,9 +1,9 @@
 ## 张英伟 / <small>YingWei Zhang</small>
-### java开发工程师 / <small>java Software Engineer</small>
+### 大数据开发工程师 / <small>Big Data Development Engineer</small>
 
 >电话 : 18515456640<br>
 >邮箱 : zhangyw001@gmail.com<br>
->主页 : http://zhangyingwei.com <br>
+>主页 : http://zhangyingwei.com
 
 ---
 
