@@ -1,5 +1,5 @@
 ## 张英伟 / <small>YingWei Zhang</small>
-### 大数据开发工程师 / <small>Big Data Development Engineer</small>
+### 大数据开发工程师
 
 >电话 : 18515456640<br>
 >邮箱 : zhangyw001@gmail.com<br>
