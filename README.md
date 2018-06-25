@@ -3,13 +3,13 @@
 
 >电话 : 18515456640<br>
 >邮箱 : zhangyw001@gmail.com<br>
->主页 : http://zhangyingwei.com
+>主页 : [http://zhangyingwei.com](http://zhangyingwei.com)
 
 ---
 
 #### 个人信息
 >性 别： 男 <br>
->年 龄： 25 <br>
+>年 龄： 27 <br>
 >现居地： 北京 <br>
 >学 历： 本科
 
@@ -25,31 +25,32 @@
 #### 技术栈
 > **web后台开发**<br>
 > 
-> * 熟练使用java作为主要开发语言，有良好的编码习惯，注重代码注释
-> * 熟练使用spring全家桶系列，以及mybatis，hibernate等主流开发框架
-> * 熟练mysql等关系型数据库的使用与优化
-> * 熟练使用redis等kv数据库
-> * 熟练使用tomcat等web服务器，熟悉nginx服务器的基本配置
-> * 熟练MVC开发模式
-> * 使用java开发过爬虫
+> * 熟练使用 Java 作为主要开发语言，有良好的编码习惯，注重代码注释
+> * 熟练使用 Spring 全家桶系列，以及 Mybatis，Hibernate 等主流开发框架
+> * 熟练 Mysql 等关系型数据库的使用与优化
+> * 熟练使用 Redis 等 Nosql 数据库
+> * 熟练使用 Tomcat 等 Web 服务器，熟悉 Nginx 服务器的基本配置
+> * 熟练 MVC 开发模式
+> * 使用 Java 开发过爬虫框架
 > 
 > **web前端**<br>
 > 
-> * 熟练使用html、css、js等前端开发语言
-> * 熟练使用jquery、easyUi、extJs，KendoUi等老牌前端开发框架
-> * 熟练使用vue、angular 等mvvm框架(包括Element，iview等基于vue的前端组件库)
+> * 熟练使用 html、css、js 等前端开发语言
+> * 熟练使用 jquery、easyUi、extJs，KendoUi 等老牌前端开发框架
+> * 熟练使用 vue、angular 等 mvvm 框架(包括 Element 、iview 、vuetifyjs 等基于vue的前端组件库)
 > 
 > **大数据开发**<br>
 > 
-> * 熟练使用java、scala等大数据开发语言
-> * 熟练使用kafka等消息中间件
-> * 熟练使用spark进行大数据开发
-> * 熟练使用hdfs、hive、hbase、es 等数据存储服务
+> * 熟练使用 Java、Scala 等大数据开发语言
+> * 熟练使用 Kafka 等消息中间件
+> * 熟练使用 Spark 进行大数据开发
+> * 熟练使用 Hdfs、Hive、Hbase、es 等数据存储服务
+> * 熟悉 CDH5 集群，并对一些基础原理有一定的了解
 > 
 > **linux**<br>
 > 
-> * 日常以linux/mac作为开发环境，熟练常用linux命令
-> * 使用阿里云linux作为私人服务器，熟练搭建各种开发、运行环境
+> * 日常以 Linux/Mac 作为开发环境，熟练常用 Linux 命令，可以写一些基础的 Shell 脚本完成一些运维功能。
+> * 使用腾讯云 Linux 作为私人服务器，熟练搭建各种开发、运行环境
 >
 > **机器学习**<br>
 >
@@ -62,7 +63,9 @@
 > **项目名称** : 网络安全态势感知系统<br>
 **开发工具**： IDEA , elasticsearch , redis , hbase，hive，spark， <br>
 **项目描述**: 此系统主要围绕业务系统的安全管理需求，依托已有或者新建的多个网监系统和网络基础资源，对互联网的整体态势进行感知，及时发现安全隐患与不足 <br>
-**项目职责**: 本人负责项数据分析部分的域名数据分析，以及通过深度学习提高网络攻击发现的准确性  <br>
+**项目职责**: 使用 Netty 实现态势感知平台与外部平台的保活功能。
+使用spark作为数据的前置枢纽对数据进行格式化，为后续程序提供标准化的数据，主要功能有数据的抽取，二进制流式数据的解析。针对程序中数据的特性，开发了相应的一套模板引擎。完成了配置化抽取，应对不同的日志只需要配置不同的解析模板，大大节省了代码开发成本。
+本人负责项数据分析部分的域名数据分析，以及通过深度学习提高网络攻击发现的准确性  <br>
 ##### 长安通信科技有限责任公司 [ 2016/4 -- 2017/4 ] [ java开发工程师 ] <br>
 > **项目名称** : 人物画像系统(JavaWeb+Spark数据分析) <br>
 **开发工具**： IDEA , 一款国产关系数据库 , redis , hbase，hive，spark， Tomcat7.0<br>
