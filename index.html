@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="home">
+	<ul class="post-list">
+		{% for post in site.posts %}
+		<li>
+			<article>
+				<header class="post-header">
+					<div>
+						<span>简历更新时间： </span><span class="update-time">{{ post.date | date: "%Y年%m月%d日" }}</span>
+					</div>
+				</header>
+				<div class="entry-content">
+					{{ post.content }}
+				</div>
+			</article>
+		</li>
+		{% endfor %}
+	</ul>
+</div>
