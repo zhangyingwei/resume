@@ -2,17 +2,18 @@
 layout: default
 ---
 
-<div class="home">
+<div class="home font-white">
 	<ul class="post-list">
 		{% for post in site.posts %}
 		<li>
 			<article>
 				<header class="post-header">
-					<div>
-						<span>简历更新时间： </span><span class="update-time">{{ post.date | date: "%Y年%m月%d日" }}</span>
+					<div class="update-time">
+                        <span>简历更新时间： </span><span>{{ post.date | date: "%Y年%m月%d日" }}</span>
+                        <hr>
 					</div>
 				</header>
-				<div class="entry-content">
+				<div class="entry-content font-white">
 					{{ post.content }}
 				</div>
 			</article>
