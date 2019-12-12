@@ -99,4 +99,20 @@ h1, h2, h3, h4, h5, h6{
 
 h3 ~ ul li {
     /* font-size: 15px; */
+    padding: 2px 0;
+}
+
+.fa {
+    padding-right: 5px;
+}
+
+code {
+    /* background-color: #787065; */
+    /* border-bottom: 1px dotted #787065;
+    padding: 0px 5px 1px 5px; */
+    font-family: 'yahei';
+    font-weight: 200;
+    /* margin: 0 4px; */
+    /* border-radius: 2px; */
+    color: #d3547e;
 }
