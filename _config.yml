@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 简历 - 张英伟
+title: 简历 - 大数据研发工程师 - 张英伟
 email: zhangyw001@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  张英伟,java研发工程师,大数据开发工程师,数据分析师,网络安全,机器学习.
 baseurl: "/resume" # the subpath of your site, e.g. /blog
-url: "https://ferrolho.github.io" # the base hostname & protocol for your site
+url: "https://zhangyingwei.github.io" # the base hostname & protocol for your site
 github_username: ""
 instagram_username: ""
 twitter_username:   ""
