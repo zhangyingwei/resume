@@ -26,12 +26,12 @@ while(htmls.indexOf('$',beginIndex) > 0){
 
 document.getElementsByTagName('body')[0].innerHTML = htmls
 
-var lis = document.getElementsByClassName("entry-content")[0].getElementsByTagName("li")
-var listItype = '<i class="fa fa-angle-right" aria-hidden="true"></i> '
-for (let index = 0; index < lis.length; index++) {
-    var element = lis[index];
-    var inode = element.childNodes[0]
-    if(inode.nodeName != 'I'){
-        element.innerHTML = listItype + element.innerHTML
-    }
-}
+// var lis = document.getElementsByClassName("entry-content")[0].getElementsByTagName("li")
+// var listItype = '<i class="fa fa-angle-right" aria-hidden="true"></i> '
+// for (let index = 0; index < lis.length; index++) {
+//     var element = lis[index];
+//     var inode = element.childNodes[0]
+//     if(inode.nodeName != 'I'){
+//         element.innerHTML = listItype + element.innerHTML
+//     }
+// }
